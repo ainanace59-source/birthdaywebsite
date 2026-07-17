@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Happy Birthday ✨</title>
+  <title>Happy Birthday rumaizzz✨</title>
   
   <!-- CDN Links for Design and Functionality -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -200,7 +200,7 @@
           Happy Birthday!
         </h2>
         <p class="text-stone-300 text-base md:text-lg leading-relaxed max-w-sm animate-stagger">
-          Another year of you making the world brighter. Your existence is a gift, and I'm so lucky to witness it.
+          Another year of you making the world brighter. Your existence is a gift, and I'm so lucky to witness it.I Just Love,Adore You So Much!
         </p>
         <button onclick="goToStep(3)" class="gradient-btn animate-stagger py-3 px-8 text-white font-semibold rounded-full select-none mt-2">
           There's more...
@@ -210,24 +210,24 @@
       <!-- Step 3: The Reasons Why (Bento Grid Layout) -->
       <div id="step-3" class="glass-card w-full rounded-3xl p-6 md:p-10 flex-col items-center text-center gap-6 shadow-2xl hidden opacity-0 translate-y-8 scale-95">
         <h2 class="font-serif-display text-3xl md:text-4xl font-bold text-gradient leading-tight animate-stagger">
-          A Few Things I Adore About You
+          A Few Things I Love About You
         </h2>
         
         <div class="grid grid-cols-1 md:grid-cols-2 gap-3 w-full text-left mt-2">
           <!-- Card 1 -->
           <div class="md:col-span-2 bg-white/5 border border-white/5 rounded-2xl p-5 hover:bg-white/10 transition-colors duration-300 animate-stagger">
             <h3 class="text-pink-300 font-bold text-base md:text-lg mb-1 flex items-center gap-2">✨ Your Unmatched Kindness</h3>
-            <p class="text-stone-300 text-xs md:text-sm leading-relaxed">The genuine warmth you show to everyone is something truly rare and beautiful.</p>
+            <p class="text-stone-300 text-xs md:text-sm leading-relaxed">The genuine warmth you show to everyone is something truly rare and beautiful.I wish you nothing but happiness peace and prosperity over your life</p>
           </div>
           <!-- Card 2 -->
           <div class="md:col-span-1 bg-white/5 border border-white/5 rounded-2xl p-5 hover:bg-white/10 transition-colors duration-300 animate-stagger">
-            <h3 class="text-pink-300 font-bold text-base md:text-lg mb-1 flex items-center gap-2">😊 That Smile</h3>
-            <p class="text-stone-300 text-xs md:text-sm leading-relaxed">It's a work of art.</p>
+            <h3 class="text-pink-300 font-bold text-base md:text-lg mb-1 flex items-center gap-2">😊 That Smile which always makes me to smile</h3>
+            <p class="text-stone-300 text-xs md:text-sm leading-relaxed">It's a work of art obviously.</p>
           </div>
           <!-- Card 3 -->
           <div class="md:col-span-2 bg-white/5 border border-white/5 rounded-2xl p-5 hover:bg-white/10 transition-colors duration-300 animate-stagger">
             <h3 class="text-pink-300 font-bold text-base md:text-lg mb-1 flex items-center gap-2">🌟 Your Radiant Spirit</h3>
-            <p class="text-stone-300 text-xs md:text-sm leading-relaxed">Your passion for life is infectious. Being around you makes everything feel more exciting and possible.</p>
+            <p class="text-stone-300 text-xs md:text-sm leading-relaxed">Your presence, Being around you makes everything feel more exciting and possibl Iam glad I have this person hom i can speak my mind fearlessly.</p>
           </div>
         </div>
 
@@ -253,8 +253,8 @@
         </div>
 
         <p class="text-stone-300 text-base md:text-lg leading-relaxed max-w-sm animate-stagger">
-          Every moment with you feels like a scene from a movie I'd watch on repeat.
-        </p>
+          Every moment with you feels like a scene from a movie I'd watch on repeat'and with pure intentions i want to make  more but only wiyh you rumaiza</p>
+          
         <button onclick="goToStep(5)" class="gradient-btn animate-stagger py-3 px-8 text-white font-semibold rounded-full select-none mt-2">
           One last thing...
         </button>
@@ -269,13 +269,13 @@
           My Wish For You
         </h2>
         <p class="text-stone-300 text-base md:text-lg leading-relaxed max-w-sm animate-stagger">
-          May the next year bring you all the love, success, and pure happiness you so rightfully deserve. May your dreams soar higher than ever.
+          May the next year bring you all the love, success, and pure happiness you so rightfully deserve. May your dreams soar higher than ever ameen.
         </p>
         
         <!-- Space Reserved for final message revealed later -->
         <div id="final-message-container" class="hidden h-0 overflow-hidden">
           <h1 id="final-text" class="font-serif-display text-3xl md:text-4xl font-extrabold bg-gradient-to-r from-pink-300 via-rose-300 to-rose-400 bg-clip-text text-transparent filter drop-shadow-[0_0_10px_rgba(244,63,94,0.4)] leading-tight mt-2 opacity-0 translate-y-4">
-            Happy Birthday, my crush! ❤️
+            Happy Birthday, my loveee! ❤️
           </h1>
         </div>
 
